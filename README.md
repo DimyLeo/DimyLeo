@@ -9,7 +9,7 @@ Meu nome é Leo, moro no Brasil em Bataguassu/MS e sou Desenvolvedor Web!
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?DimyLeo=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DimyLeo)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?DimyLeo={DimyLeo})
 
