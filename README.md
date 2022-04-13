@@ -11,7 +11,7 @@ Meu nome é Leo, moro no Brasil em Bataguassu/MS e sou Desenvolvedor Web!
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DimyLeo)](https://github.com/anuraghazra/github-readme-stats)
 
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?DimyLeo={DimyLeo})
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DimyLeo&langs_count=5)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Formação
 <p>
