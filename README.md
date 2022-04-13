@@ -9,9 +9,9 @@ Meu nome é Leo, moro no Brasil em Bataguassu/MS e sou Desenvolvedor Web!
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
-https://github-readme-stats.vercel.app/api?DimyLeo={DimyLeo}
+![GitHub Status](https://github-readme-stats.vercel.app/api?DimyLeo={DimyLeo})
 
-https://github-readme-stats.vercel.app/api/top-langs/?DimyLeo={DimyLeo}
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?DimyLeo={DimyLeo})
 
 ### Formação
 <p>
