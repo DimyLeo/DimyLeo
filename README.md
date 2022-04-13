@@ -2,6 +2,8 @@
 
 Meu nome é Leo, moro no Brasil em Bataguassu/MS e sou Desenvolvedor Web! 
 
+![Minha foto](https://drive.google.com/file/d/1infCWyLydiRkBR5xfQcQ2jIdg2T_iocc/view)
+
 ### Tecnologias
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
