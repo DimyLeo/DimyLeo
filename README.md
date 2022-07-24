@@ -24,7 +24,7 @@ Meu nome é Leo, moro no Brasil em Bataguassu/MS e sou Desenvolvedor Web!
 <p>
   <a href="https://www.linkedin.com/in/leo-cavalcante-701713235/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="mailto:leonardoprimoc@hotmail.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"></a>
-  <a href="https://dimyleo.github.io/"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white"></a>
+  <a href="https://dimyleo.github.io/Meu-Portfolio/"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white"></a>
 </p>
 
 <!--
