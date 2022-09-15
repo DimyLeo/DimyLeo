@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Meu nome é Leo, moro no Brasil em Bataguassu/MS e sou Desenvolvedor Web! 
+Meu nome é Leo, sou Desenvolvedor Web, tenho 20 anos, moro no Brasil em Bataguassu/MS! 
 
 ![Minha foto](https://raw.githubusercontent.com/DimyLeo/DimyLeo/main/img/Banner%201.0.png)
 
