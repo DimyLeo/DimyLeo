@@ -23,9 +23,11 @@
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DimyLeo)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DimyLeo&langs_count=5)](https://github.com/anuraghazra/github-readme-stats)
+<div align="center">
+  <a href="https://github.com/DimyLeo/github-readme-stats"><img height="165em" alt="DimyLeo Github Stats" src="https://github-readme-stats.vercel.app/api?username=DimyLeo&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=false&bg_color=0D1117" /></a>
+  <a href="https://github.com/DimyLeo/github-readme-stats"><img height="165em" alt="DimyLeo Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DimyLeo&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=false&bg_color=0D1117"/>
+	</a>
+</div>
 
 ### Formação
 <p>
