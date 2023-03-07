@@ -24,9 +24,8 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
 <div align="center">
-  <a href="https://github.com/DimyLeo/github-readme-stats"><img height="165em" alt="DimyLeo Github Stats" src="https://github-readme-stats.vercel.app/api?username=DimyLeo&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=false&bg_color=0D1117" /></a>
-  <a href="https://github.com/DimyLeo/github-readme-stats"><img height="165em" alt="DimyLeo Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DimyLeo&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=false&bg_color=0D1117"/>
-	</a>
+  ![Leo's GitHub stats](https://github-readme-stats.vercel.app/api?username=DimyLeo&show_icons=true&theme=radical)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aDimyLeo&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
 </div>
 
 ### Formação
