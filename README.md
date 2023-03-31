@@ -26,8 +26,8 @@
 
 <div align="center">
   <a href="https://github.com/DimyLeo">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DimyLeo&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DimyLeo&layout=compact&langs_count=10&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DimyLeo&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=DimyLeo&theme=tokyonight"/>
 </div>
 
 ### Formação
